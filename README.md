@@ -1,20 +1,11 @@
 ## 👋 Oi! Sou o C0de
 <div>
-  <a href="https://github.com/C0dezinnn">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=C0dezinnn&show_icons=true&theme=transparent)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0dezinnn&layout=compact&langs_count=7&theme=shades-of-purple&count_private=true"/>
+  <a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0dezinnn&show_icons=true&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="C0dezinnn-JavaScipt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">›
  
 </div>
   
-  ##
- 
-<p align=center>
-  <img height="80px" src="https://discord.c99.nl/widget/theme-2/700157765053841438.png" />
-</p>
-    
-  ##
  
 
