@@ -5,7 +5,7 @@
 </div>
   <a>
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0dezinnn&show_icons=true&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
     </div>
 <div style="display: inline_block"><br>
  
