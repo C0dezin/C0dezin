@@ -10,7 +10,7 @@
     </div>
 <div style="display: inline_block"><br>
  #Currently working on:
-  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+  [This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Minecraft-exploit"/>
 </div>
   
