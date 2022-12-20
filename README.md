@@ -1,4 +1,4 @@
-# 👋 Oi! Sou o C0de
+# 👋 Wassup, I'm C0de
 ## C#, Lua, JavaScript Developer. Reverse Engineering.
 <div>
   <a>
