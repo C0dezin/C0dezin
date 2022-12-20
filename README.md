@@ -11,9 +11,9 @@
 <div style="display: inline_block"><br>
   Currently working on:
   <div>
-  <a href="https://github.com/c0dezinnn/Minecraft-exploit">
+  <a href="https://github.com/c0dezinnn/Minecraft-Client">
     <img height="150m">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Minecraft-exploit&show_owner=true"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Minecraft-Client&show_owner=true"
 </a>
     </div>
     <div style="display: inline_block"><br>
