@@ -1,5 +1,5 @@
 # 👋 Wassup, I'm C0de
-## C#, Lua, JavaScript Developer. Reverse Engineering.
+## C#, Lua, JavaScript, Java(a little bit) Developer. Reverse Engineering.
 <div>
   <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0dezinnn&show_icons=true&theme=transparent"/>
