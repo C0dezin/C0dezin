@@ -10,8 +10,10 @@
     </div>
 <div style="display: inline_block"><br>
  #Currently working on:
+  <br>
   <a href="https://github.com/c0dezinnn/Minecraft-exploit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Minecraft-exploit" img height="180em"
+    <img height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Minecraft-exploit"
 </a>
 </div>
   
