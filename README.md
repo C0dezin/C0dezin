@@ -14,7 +14,7 @@
     <br>
   <a href="https://github.com/c0dezinnn/Minecraft-exploit">
     <img height="150m">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Minecraft-exploit"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Minecraft-exploit&show_owner=true"
 </a>
     </div>
     <div style="display: inline_block"><br>
