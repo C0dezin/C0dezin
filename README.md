@@ -15,9 +15,9 @@
 <div style="display: inline_block"><br>
   Currently working on:
   <div>
-  <a href="https://github.com/c0dezinnn/Owl-Client">
+  <a href="https://github.com/c0dezinnn/Owl-mcslist">
     <img height="150m">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Owl-Client&show_owner=true&theme=transparent"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=C0dezinnn&repo=Owl-mcslist&show_owner=true&theme=transparent"
 </a>
     </div>
     <div style="display: inline_block"><br>
