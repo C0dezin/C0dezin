@@ -8,11 +8,11 @@
 For some kind of moderation, I discover exploits in games and report them to the responsible companies
 <div>
   <a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0dezinnn&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0dezin&show_icons=true&theme=transparent"/>
 </div>
   <a>
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0dezinnn&layout=compact&theme=transparent"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0dezin&layout=compact&theme=transparent"/>
     </div>
 <div style="display: inline_block"><br>
   Currently working on:
