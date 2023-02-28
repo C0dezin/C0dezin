@@ -2,7 +2,7 @@
 - [x] C#
 - [x] Lua
 - [x] JavaScript
-- [ ] Reverse Engineering
+- [x] Reverse Engineering
 - [ ] Java
 <div>
   <a>
