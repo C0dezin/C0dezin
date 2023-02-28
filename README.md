@@ -4,6 +4,8 @@
 - [x] JavaScript
 - [x] Reverse Engineering
 - [ ] Java
+
+For some kind of moderation, I discover exploits in games and report them to the responsible companies
 <div>
   <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0dezinnn&show_icons=true&theme=transparent"/>
