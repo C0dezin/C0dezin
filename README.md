@@ -1,2 +1,2 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c0dezin/f6a1a25d-9fa3-4c3e-9fe5-c4030bf0fa9e.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c0dezin/3aa65e6f-a732-48bd-b7b1-f89c56893089.png" /></a>
 
